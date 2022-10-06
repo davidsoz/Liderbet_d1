@@ -1,7 +1,8 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-   width: 300px;
+   min-width: 300px;
    height: 300px;
+   flex-grow: 1;
    background-color: lightgray;
 `;

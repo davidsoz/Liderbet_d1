@@ -8,6 +8,7 @@ export const Container = styled.div`
     justify-content: space-between;
     background-color: #E3E8F1;
     box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);
+    flex-grow: 1;
     .checkboxes {
         display: flex;
         gap: 16px;

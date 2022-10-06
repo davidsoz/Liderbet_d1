@@ -12,8 +12,8 @@ export const Container = styled.div`
     input::before {
         content: "";
         display: flex;
-        width: 10px;
-        height: 10px;
+        width: 12px;
+        height: 12px;
         align-items: center;
         justify-content: center;
         border-radius: 3px;

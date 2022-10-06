@@ -4,6 +4,7 @@ export const Currency = styled.div`
 display: flex;
 align-items: center;
 gap: 10px;
+font-weight: 600;
 >div {
     border-radius: 14px;
     position: relative;
